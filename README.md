@@ -9,3 +9,7 @@ Link: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
   - [Quartiles](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%201/quartiles.py)
   - [Interquartile Range](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%201/interquartile_range.py)
   - [Standard Deviation](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%201/standard_deviation.py)
+- Day **2**:
+  - [Basic Probability](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%202/basic_probability.md)
+  - [More Dice](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%202/more_dice.md)
+  - [ Compound Event Probability](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%202/compound_event_probability.md)
