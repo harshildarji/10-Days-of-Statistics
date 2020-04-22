@@ -13,3 +13,7 @@ Link: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
   - [Basic Probability](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%202/basic_probability.md)
   - [More Dice](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%202/more_dice.md)
   - [ Compound Event Probability](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%202/compound_event_probability.md)
+- Day **3**:
+  - [Conditional Probability](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%203/conditional_probability.md)
+  - [Cards of the Same Suit](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%203/cards_of_the_same_suit.md)
+  - [Drawing Marbles](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%203/drawing_marbles.md)
