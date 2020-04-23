@@ -17,3 +17,8 @@ Link: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
   - [Conditional Probability](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%203/conditional_probability.md)
   - [Cards of the Same Suit](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%203/cards_of_the_same_suit.md)
   - [Drawing Marbles](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%203/drawing_marbles.md)
+- Day **4**:
+  - [Binomial Distribution I](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%204/binomial_distribution_i.py)
+  - [Binomial Distribution II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%204/binomial_distribution_ii.py)
+  - [Geometric Distribution I](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%204/geometric_distribution_i.py)
+  - [Geometric Distribution II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%204/geometric_distribution_ii.py)
