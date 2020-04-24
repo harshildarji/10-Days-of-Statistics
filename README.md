@@ -22,3 +22,8 @@ Link: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
   - [Binomial Distribution II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%204/binomial_distribution_ii.py)
   - [Geometric Distribution I](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%204/geometric_distribution_i.py)
   - [Geometric Distribution II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%204/geometric_distribution_ii.py)
+- Day **5**:
+  - [Poisson Distribution I](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%205/poisson_distribution_i.py)
+  - [Poisson Distribution II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%205/poisson_distribution_ii.py)
+  - [Normal Distribution I](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%205/normal_distribution_i.py)
+  - [Normal Distribution II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%205/normal_distribution_ii.py)
