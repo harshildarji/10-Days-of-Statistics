@@ -27,3 +27,7 @@ Link: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
   - [Poisson Distribution II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%205/poisson_distribution_ii.py)
   - [Normal Distribution I](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%205/normal_distribution_i.py)
   - [Normal Distribution II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%205/normal_distribution_ii.py)
+- Day **6**:
+  - [The Central Limit Theorem I](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%206/the_central_limit_theorem_i.py)
+  - [The Central Limit Theorem II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%206/the_central_limit_theorem_ii.py)
+  - [The Central Limit Theorem III](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%206/the_central_limit_theorem_iii.py)
