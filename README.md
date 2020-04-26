@@ -31,3 +31,6 @@ Link: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
   - [The Central Limit Theorem I](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%206/the_central_limit_theorem_i.py)
   - [The Central Limit Theorem II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%206/the_central_limit_theorem_ii.py)
   - [The Central Limit Theorem III](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%206/the_central_limit_theorem_iii.py)
+- Day **7**:
+  - [Pearson Correlation Coefficient I](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%207/pearson_correlation_coefficient_i.py)
+  - [Spearman's Rank Correlation Coefficient](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%207/spearman_rank_correlation_coefficient.py)
