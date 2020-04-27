@@ -34,3 +34,6 @@ Link: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 - Day **7**:
   - [Pearson Correlation Coefficient I](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%207/pearson_correlation_coefficient_i.py)
   - [Spearman's Rank Correlation Coefficient](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%207/spearman_rank_correlation_coefficient.py)
+- Day **8**:
+  - [Least Square Regression Line](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%208/least_square_regression_line.py)
+  - [Pearson Correlation Coefficient II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%208/pearson_correlation_coefficient_ii.md)
