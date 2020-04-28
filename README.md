@@ -1,7 +1,5 @@
 # 10 Days of Statistics | HackerRank
 
-HackerRank Link: [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
-
 - Day **0**:
   - [Mean, Median, and Mode](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%200/mean_median_mode.py)
   - [Weighted Mean](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%200/weighted_mean.py)
@@ -37,3 +35,8 @@ HackerRank Link: [10 Days of Statistics](https://www.hackerrank.com/domains/tuto
 - Day **8**:
   - [Least Square Regression Line](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%208/least_square_regression_line.py)
   - [Pearson Correlation Coefficient II](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%208/pearson_correlation_coefficient_ii.md)
+- Day **9**:
+  - [Multiple Linear Regression](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%209/multiple_linear_regression.py)
+  
+---
+**[10 Days of Statistics on HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)**
