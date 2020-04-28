@@ -1,5 +1,7 @@
 # 10 Days of Statistics | HackerRank
 
+#### Solutions:
+
 - Day **0**:
   - [Mean, Median, and Mode](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%200/mean_median_mode.py)
   - [Weighted Mean](https://github.com/harshildarji/10-Days-of-Statistics/blob/master/Day%200/weighted_mean.py)
