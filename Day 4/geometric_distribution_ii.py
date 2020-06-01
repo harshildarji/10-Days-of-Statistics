@@ -6,4 +6,4 @@ insp = 5
 p = n / d
 q = 1 - p
 
-print(round(sum([q**(i-1) * p for i in range(1, 6)]), 3))
+print(round(sum([q ** (i - 1) * p for i in range(1, 6)]), 3))

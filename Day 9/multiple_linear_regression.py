@@ -22,4 +22,4 @@ a = lm.intercept_
 b = lm.coef_
 
 for x in x_test:
-    print('{:.2f}'.format(a + sum([(b[i] * x[i]) for i in range(m)])))
+    print("{:.2f}".format(a + sum([(b[i] * x[i]) for i in range(m)])))

@@ -6,4 +6,4 @@ insp = 5
 p = n / d
 q = 1 - p
 
-print(round((q**(insp-1) * p), 3))
+print(round((q ** (insp - 1) * p), 3))

@@ -3,13 +3,13 @@
 n = int(input())
 numbers = sorted(list(map(int, input().split())))
 
-mean = sum(numbers)/n
+mean = sum(numbers) / n
 
 if n % 2 != 0:
-    median = numbers[n//2]
+    median = numbers[n // 2]
 else:
-    index = n//2
-    median = (numbers[index] + numbers[index-1]) / 2
+    index = n // 2
+    median = (numbers[index] + numbers[index - 1]) / 2
 
 occurrences = dict()
 for n in set(numbers):
@@ -20,4 +20,4 @@ for n in set(numbers):
 
 mode = min(occurrences[max(occurrences.keys())])
 
-print('{:.1f}\n{:.1f}\n{}'.format(mean, median, mode))
+print("{:.1f}\n{:.1f}\n{}".format(mean, median, mode))
